@@ -2123,7 +2123,7 @@
     "m_Title": "Calculate base color with offset",
     "m_Position": {
         "x": -972.0,
-        "y": -103.00001525878906
+        "y": -103.0
     }
 }
 
@@ -2882,8 +2882,8 @@
     "m_ObjectId": "8ae5ab83e97b4d10be835940413a7978",
     "m_Title": "Create an offset on a clock",
     "m_Position": {
-        "x": -3484.000244140625,
-        "y": 338.0000305175781
+        "x": -3484.0,
+        "y": 338.0
     }
 }
 
@@ -3702,7 +3702,7 @@
     "m_Title": "Get ScreenSpace Hatching Value",
     "m_Position": {
         "x": -2470.0,
-        "y": -103.00001525878906
+        "y": -103.0
     }
 }
 
