@@ -1222,7 +1222,7 @@
     "m_Title": "Water Depth Color",
     "m_Position": {
         "x": -1922.0,
-        "y": 408.9999694824219
+        "y": 409.0
     }
 }
 
@@ -4184,8 +4184,8 @@
     "m_ObjectId": "79f823f8c6cc4156a3ad73fd94bea5f9",
     "m_Title": "Combining  Textuer and intersection Foam",
     "m_Position": {
-        "x": -724.0001220703125,
-        "y": -110.99992370605469
+        "x": -724.0,
+        "y": -111.0
     }
 }
 
@@ -4934,8 +4934,8 @@
     "m_ObjectId": "a0a14519a76f4df3ab7d0e8c3b22d0d8",
     "m_Title": "Vertex Bobbing",
     "m_Position": {
-        "x": -1482.9998779296875,
-        "y": -847.0000610351563
+        "x": -1483.0,
+        "y": -847.0
     }
 }
 
@@ -7030,7 +7030,7 @@
     "m_Title": "Main Foam Voronoi Sample",
     "m_Position": {
         "x": -2198.0,
-        "y": 41.00008010864258
+        "y": 41.0
     }
 }
 
