@@ -1188,7 +1188,7 @@
     "m_Title": "Fresnel Calculation",
     "m_Position": {
         "x": -1254.0,
-        "y": -177.00001525878907
+        "y": -177.0
     }
 }
 
@@ -2512,8 +2512,8 @@
     "m_ObjectId": "d760df8aba9d42af86765d5dafe6ea22",
     "m_Title": "Normals Calculation",
     "m_Position": {
-        "x": -1731.0001220703125,
-        "y": 403.0
+        "x": -1731.0,
+        "y": 403.0000305175781
     }
 }
 
